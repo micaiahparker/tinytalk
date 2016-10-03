@@ -1,0 +1,2 @@
+# tinytalk
+Interpreted Smalltalk syntax
