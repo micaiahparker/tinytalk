@@ -4,6 +4,9 @@
 *.obj
 *.elf
 
+# Editor files 
+.vscode
+
 # Precompiled Headers
 *.gch
 *.pch
